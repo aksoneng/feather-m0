@@ -12,14 +12,14 @@ Feather-M0	KEYWORD1
 # Methods and Functions (KEYWORD2)
 #######################################
 
-battery_voltage KEYWORD2
-free_ram        KEYWORD2
+battery_voltage	KEYWORD2
+free_ram	KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
 #######################################
 
-PIN_VBAT      LITERAL1
-PIN_RFM95_NSS LITERAL1
-PIN_RFM95_IO0 LITERAL1
-PIN_RFM95_IO1 LITERAL1
+PIN_VBAT	LITERAL1
+PIN_RFM95_NSS	LITERAL1
+PIN_RFM95_IO0	LITERAL1
+PIN_RFM95_IO1	LITERAL1
